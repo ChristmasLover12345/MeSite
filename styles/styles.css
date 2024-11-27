@@ -38,6 +38,7 @@ background-color: #7A231D;
 
 .intro
 {
+    border: solid black 2px;
     background-color: #B43B2B;
     font-size: 1.5rem;
     max-width: 70%;
