@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Deepwoken;
+    src: url(../assets/Fondamento/Fondamento-Regular.ttf);
+}
+
+body
+{
+background-color: #667256;
+}
+
+.navbar
+{
+width: 30rem;
+/* top: 0%;
+position: sticky; */
+
+background-color: #7A231D;
+
+}
+
+.gpoBtn
+{
+    
+}
+
+.deepBtn
+{
+    background-color: #035a6d;
+    color: #f0f8ff;
+    font-family: Deepwoken;
+}
+
+.deepBtn:hover
+{
+    background-color: #f0f8ff;
+    color: black;
+}
+
+.intro
+{
+    background-color: #B43B2B;
+    font-size: 1.5rem;
+    max-width: 70%;
+}
