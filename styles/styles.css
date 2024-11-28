@@ -3,7 +3,8 @@
     src: url(../assets/Fondamento/Fondamento-Regular.ttf);
 }
 
-body
+/* HOME */
+.bodyHome
 {
 background-color: #667256;
 }
@@ -43,3 +44,19 @@ background-color: #7A231D;
     font-size: 1.5rem;
     max-width: 70%;
 }
+/* HOME */
+
+/* DEEP */
+.deepBody
+{
+    background-color: #16537e;
+    font-family: Deepwoken;
+}
+
+.deepNavBar
+{
+    background-color: 	#01434f;
+    display: flex;
+    justify-content: end;
+}
+/* DEEP */
