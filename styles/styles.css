@@ -59,4 +59,12 @@ background-color: #7A231D;
     display: flex;
     justify-content: end;
 }
+
+.gameDesc
+{
+    background-color: #006a91;
+    border: solid black 1.5px;
+    font-size: 20px;
+    max-width: 80%;
+}
 /* DEEP */
