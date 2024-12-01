@@ -3,15 +3,18 @@
     [
         {
             "buildName": "Gunslinger",
-            "buildLink": "https://deepwoken.co/builder?id=d3Swu8sA"
+            "buildLink": "https://deepwoken.co/builder?id=d3Swu8sA",
+            "buildDesc": "Build focused on using a single gun, this was made before they removed gun projectiles and added a legendar gun to the game, but it should still be an ok build for a begginer."
         },
         {
             "buildName": "Galegang",
-            "buildLink": "https://deepwoken.co/builder?id=D6XXWxXf"
+            "buildLink": "https://deepwoken.co/builder?id=D6XXWxXf",
+            "buildDesc": "The best build i ever made PVP wise, its the same one I have on the picture on the section above, It's a really fun and fast build that is mainly focused on just mantra spamming, not very skilled so its ideal if your bad, the only bad thing about this build is that the weapon is a legendary, so you are pretty much forced to farm bosses to get it."
         },
         {
             "buildName": "Maestro Ender",
-            "buildLink": "https://deepwoken.co/builder?id=FEFahdoH"
+            "buildLink": "https://deepwoken.co/builder?id=FEFahdoH",
+            "buildDesc": "A PVE focused build mainly made to kill the maestro boss as fast as possible, not the best but not the worst either, it can also be used to fight any other boss if you want tho."
         }
     ]
 }
